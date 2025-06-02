@@ -9,3 +9,13 @@ Result can be copied to clipboard.
 
 Pretty printer needed.
 
+# todo
+
+## special caharacters
+
+special character < and > will be replaced with `&lt;` and `&gt;`
+Other special characters will need to be added, but I don't know, which.
+
+## numeric values
+
+Constants must not begin with a number. This could be considered in the code.
